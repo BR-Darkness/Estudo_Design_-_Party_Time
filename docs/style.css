@@ -45,16 +45,18 @@ body
     display: flex;
     justify-content: space-around;
     align-items: center;
+    max-width: 1440px;
     flex-wrap: wrap;
     padding: 2.75em;
+    margin: auto;
     gap: 24px;
 }
 
 #Menu-Itens ul
 {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 24px;
 }
 
@@ -62,7 +64,6 @@ body
 {
     border-radius: 4px;
     color: #f5f5f5;
-    font-weight: 300;
     padding: .5em;
 }
 
