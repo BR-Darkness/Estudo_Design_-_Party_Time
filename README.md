@@ -1,3 +1,5 @@
+<p align="center"><img src="Imagens/Logo.svg"></p>
+
 <h1 align="center">Projeto de Estudo: Party Time</h1>
 
 > Projeto de estudo desenvolvido com a finalidade de melhorar as minhas habilidades com frontend.
